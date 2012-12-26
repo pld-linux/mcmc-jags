@@ -4,12 +4,12 @@
 #
 Summary:	Just Another Gibbs Sample
 Name:		mcmc-jags
-Version:	3.2.0
+Version:	3.3.0
 Release:	1
 License:	GPL v2
 Group:		Development/Libraries
 Source0:	http://downloads.sourceforge.net/mcmc-jags/JAGS/3.x/Source/JAGS-%{version}.tar.gz
-# Source0-md5:	31b713864a43f1584f6741b9cb6f970b
+# Source0-md5:	1fdcf7d3c38ea418198d180d0f150545
 URL:		http://mcmc-jags.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
